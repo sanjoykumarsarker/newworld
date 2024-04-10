@@ -1,4 +1,4 @@
 # hello-world
 Hello World repository for Git tutorial
- //thanks
+ //by local
 This repository is built step by step in the tutorial.
